@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XqcxRNreZzY=",
+  "dgSpecHash": "RODkpPeiuUE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\karol\\Documentos\\EcommerceCheckout\\EcommerceCheckout.Tests\\EcommerceCheckout.Tests.csproj",
+  "projectFilePath": "C:\\Users\\karol\\Documentos\\ecommerce-checkout-xunit\\EcommerceCheckout\\EcommerceCheckout.Tests\\EcommerceCheckout.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\karol\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512",
     "C:\\Users\\karol\\.nuget\\packages\\microsoft.codecoverage\\17.14.1\\microsoft.codecoverage.17.14.1.nupkg.sha512",

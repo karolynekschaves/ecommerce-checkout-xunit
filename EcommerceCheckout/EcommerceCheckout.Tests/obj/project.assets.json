@@ -936,11 +936,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\karol\\Documentos\\EcommerceCheckout\\EcommerceCheckout.Tests\\EcommerceCheckout.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\karol\\Documentos\\ecommerce-checkout-xunit\\EcommerceCheckout\\EcommerceCheckout.Tests\\EcommerceCheckout.Tests.csproj",
       "projectName": "EcommerceCheckout.Tests",
-      "projectPath": "C:\\Users\\karol\\Documentos\\EcommerceCheckout\\EcommerceCheckout.Tests\\EcommerceCheckout.Tests.csproj",
+      "projectPath": "C:\\Users\\karol\\Documentos\\ecommerce-checkout-xunit\\EcommerceCheckout\\EcommerceCheckout.Tests\\EcommerceCheckout.Tests.csproj",
       "packagesPath": "C:\\Users\\karol\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\karol\\Documentos\\EcommerceCheckout\\EcommerceCheckout.Tests\\obj\\",
+      "outputPath": "C:\\Users\\karol\\Documentos\\ecommerce-checkout-xunit\\EcommerceCheckout\\EcommerceCheckout.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -963,8 +963,8 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\Users\\karol\\Documentos\\EcommerceCheckout\\EcommerceCheckout.App\\EcommerceCheckout.App.csproj": {
-              "projectPath": "C:\\Users\\karol\\Documentos\\EcommerceCheckout\\EcommerceCheckout.App\\EcommerceCheckout.App.csproj"
+            "C:\\Users\\karol\\Documentos\\ecommerce-checkout-xunit\\EcommerceCheckout\\EcommerceCheckout.App\\EcommerceCheckout.App.csproj": {
+              "projectPath": "C:\\Users\\karol\\Documentos\\ecommerce-checkout-xunit\\EcommerceCheckout\\EcommerceCheckout.App\\EcommerceCheckout.App.csproj"
             }
           }
         }
